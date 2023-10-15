@@ -1,0 +1,23 @@
+{
+    "theme": 1,
+    "themes": {
+        "dark": {
+            "background_color": "#1E1E1E",
+            "text_color": "#FFFFFF",
+            "button_color": "#0055FF",
+            "accent_color": "#FF0000"
+        },
+        "light": {
+            "background_color": "#FFFFFF",
+            "text_color": "#000000",
+            "button_color": "#0077FF",
+            "accent_color": "#00FF00"
+        },
+        "space": {
+            "background_color": "#000022",
+            "text_color": "#00FF00",
+            "button_color": "#2200FF",
+            "accent_color": "#FF00FF"
+        }
+    }
+}
